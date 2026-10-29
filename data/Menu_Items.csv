@@ -1,0 +1,31 @@
+item_id,item_name,category,subcategory,price_usd,calories,prep_time_min,is_seasonal,popularity_score,avg_rating,caffeine_mg,is_vegan,available
+1,Espresso,Beverage,Hot,6.06,550,10,Yes,97.7,4.07,141,No,Yes
+2,Latte,Beverage,Blended,3.6,276,3,Yes,82.4,4.66,20,Yes,Yes
+3,Cappuccino,Beverage,Cold,4.6,364,9,No,58.0,4.03,171,No,Yes
+4,Americano,Beverage,Blended,4.39,255,10,No,58.0,4.07,163,Yes,Yes
+5,Flat White,Beverage,Hot,6.45,314,2,No,69.7,3.6,145,No,Yes
+6,Mocha,Beverage,Blended,6.21,591,8,No,57.0,3.71,190,No,No
+7,Macchiato,Beverage,Blended,7.07,488,7,No,98.9,3.71,126,Yes,Yes
+8,Cold Brew,Beverage,Hot,3.85,236,4,No,79.2,4.08,152,No,Yes
+9,Iced Latte,Beverage,Blended,5.19,91,3,No,87.7,4.01,75,No,Yes
+10,Frappuccino,Beverage,Cold,3.62,83,6,No,74.9,3.66,160,No,Yes
+11,Matcha Latte,Beverage,Hot,4.37,462,4,Yes,79.3,4.23,28,No,Yes
+12,Chai Latte,Beverage,Hot,5.52,139,5,Yes,54.2,4.23,17,Yes,Yes
+13,Hot Chocolate,Beverage,Blended,3.61,566,10,No,63.0,4.81,108,Yes,Yes
+14,Caramel Latte,Beverage,Blended,4.3,399,8,No,71.5,4.28,30,Yes,Yes
+15,Vanilla Latte,Beverage,Hot,6.1,426,2,No,78.8,3.51,181,Yes,Yes
+16,Croissant,Food,Pastry,8.36,112,7,Yes,75.2,3.92,0,No,Yes
+17,Blueberry Muffin,Food,Dessert,5.76,215,9,No,88.4,4.71,0,Yes,Yes
+18,Banana Bread,Food,Pastry,8.71,521,7,No,70.1,4.8,0,Yes,Yes
+19,Avocado Toast,Food,Pastry,10.48,492,7,Yes,62.2,3.79,0,No,Yes
+20,Egg Sandwich,Food,Savory,4.05,267,6,No,62.2,4.88,0,No,Yes
+21,Caesar Salad,Food,Pastry,10.45,95,3,No,58.1,4.23,0,Yes,No
+22,Granola Bowl,Food,Pastry,9.59,248,8,Yes,98.3,3.9,0,No,Yes
+23,Chocolate Cake,Food,Savory,6.72,578,4,No,64.5,4.95,0,Yes,Yes
+24,Cheesecake,Food,Pastry,5.24,131,9,No,52.8,4.26,0,Yes,Yes
+25,Cinnamon Roll,Food,Dessert,11.66,149,5,No,55.9,4.84,0,Yes,Yes
+26,Bagel,Food,Dessert,6.69,163,8,No,95.8,3.81,0,No,Yes
+27,Waffles,Food,Savory,4.74,485,4,No,72.4,4.89,0,Yes,Yes
+28,Pancakes,Food,Savory,4.77,182,3,No,74.8,3.7,0,No,Yes
+29,Quiche,Food,Pastry,10.78,458,6,No,71.5,4.31,0,No,Yes
+30,Brownie,Food,Dessert,8.83,386,3,No,63.0,4.83,0,Yes,Yes
