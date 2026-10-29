@@ -1,4 +1,4 @@
-# 📊 [Análisis de Cadena de Cafeterías Moka&Co. ]
+# 📊 Análisis de Cadena de Cafeterías Moka&Co.
 
 ## 📝 Descripción del Proyecto
 Este proyecto consiste en un dashboard interactivo desarrollado en Power BI para la cadena de cafeterías "MOKA & CO." Su propósito principal es transformar los datos transaccionales del negocio en información estratégica que facilite la toma de decisiones basada en datos.
