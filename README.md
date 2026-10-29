@@ -44,10 +44,11 @@ El panel de control proporciona una vista integral de la situación de la empres
 - **Número de ordenes por turno:** Ilustra el número de ordenes recibidas de acuerdo a los turnos mañana, tarde y noche.
         ![alt text](image-10.png)
 - **Top 3 productos y % de reseñas positas:** Destaca los 3 productos más vendidos, que gracias a los filtros podemos identificar los productos más vendidos por sucursal o por tipo de membresía. Por otro lado el % de reseñas positivas nos muestra el desempeño que tienen las sucursales o los productos de acuerdo a las reviews de los clientes.
-        ![alt text](image-12.png)
+       
+     ![alt text](image-12.png)
 
 ## 🖼️ Vista Previa del Dashboard
-    ![alt text](image-13.png)
+![alt text](image-13.png)
 
 **Vista dinámica:** Al seleccionar una sucursal y un mes de ventas podemos el cambio dinámico del dashboard.
     ![alt text](image-14.png)
